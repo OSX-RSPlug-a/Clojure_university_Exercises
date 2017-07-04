@@ -1,4 +1,4 @@
-;; este e um exercicio para se um contador de uma lista
+;; este e um exercicio de contador de lista
 
 ;;(= 5 5)
 
